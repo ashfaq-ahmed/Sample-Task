@@ -64,7 +64,7 @@ You are free to modify this setup or even start from scratch with your preferred
 
 ## Questions
  
- If you have questions regarding this test, please email your contact or create a GitHub issue with details on your needs/issues. The team will do its best to provide you with an answer quickly.
+ If you have questions regarding this test, please create a GitHub issue with details on your needs/issues. 
  
 ## Estimated time to completion
  
