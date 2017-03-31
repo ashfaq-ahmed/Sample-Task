@@ -68,4 +68,4 @@ You are free to modify this setup or even start from scratch with your preferred
  
 ## Estimated time to completion
  
- The expected time to completion for this exercise is sized to 6 hours. However, and if you find yourself spending a lot more time than expected, we do not require you to fulfill the full exercise in order to submit it. Feel free to send us whatever you have been able to complete along with how much time you've spent on it and we will try to get the best out of what you did. 
+ The expected time to completion for this exercise is sized to 6 hours. However, and if you find yourself spending a lot more time than expected, I do not require you to fulfill the full exercise in order to submit it. Feel free to send whatever you have been able to complete along with how much time you've spent on it and I will try to get the best out of what you did. 
